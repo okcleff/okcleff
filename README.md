@@ -21,14 +21,14 @@ Feel free to visit [my repositories](https://github.com/okcleff?tab=repositories
 ### <📊> GitHub stats </📊>
 
 
-[![Woncheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahontas&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/okcleff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugahontas&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/okcleff) 
+[![Woncheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=okcleff&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/okcleff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okcleff&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/okcleff) 
 | ----------- | ------------ |
 
 ---
 
 ### <📫> How to reach me </📫>
 
-[![Github badge](https://img.shields.io/badge/bugahontas-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okcleff) [![Gmail badge](https://img.shields.io/badge/contatohelmaqui@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okcleff@gmail.com)
+[![Github badge](https://img.shields.io/badge/okcleff-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okcleff) [![Gmail badge](https://img.shields.io/badge/okcleff@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okcleff@gmail.com)
 
 ---
 
