@@ -31,10 +31,3 @@ Feel free to visit [my repositories](https://github.com/okcleff?tab=repositories
 [![Github badge](https://img.shields.io/badge/okcleff-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okcleff) [![Gmail badge](https://img.shields.io/badge/okcleff@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okcleff@gmail.com)
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
-
-------
-
-Credit: [Candida18](https://github.com/Candida18)
-Last Edited on: 25/12/2021.
