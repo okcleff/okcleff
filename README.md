@@ -1,6 +1,6 @@
 # 안녕하세요, 프런트엔드 개발자 옥원철 입니다.
 
-### <> About me >
+### <👨‍💻> About me <👨‍💻>
 
 My name is Woncheol and I'm a Korean **front-end developer**. I'm here on GitHub to:
 - Share my codes;
