@@ -4,6 +4,7 @@
 
 My name is Woncheol and I'm a Korean **front-end developer**. I'm here on GitHub to:
 - Share my codes;
+- Archive knowledge;
 - Learn more about front-end technologies;
 - Contribute to third-party projects;
 - Get inspiration and new ideas!
