@@ -13,7 +13,13 @@ My name is Woncheol and I'm a Korean **Web developer**. I'm here on GitHub to:
 
 ### 🛠 Tech Stack
 
-![React badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)  ![JavaScript badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Redux badge](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![React Query badge](https://img.shields.io/badge/reactquery-ff4154?style=for-the-badge&logo=reactquery&logoColor=white) ![Node.js badge](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![Sass badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white) ![styled-components badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white) ![MUI badge](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+# Front-end
+
+![React badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)  ![JavaScript badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Redux badge](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![React Query badge](https://img.shields.io/badge/reactquery-ff4154?style=for-the-badge&logo=reactquery&logoColor=white) ![styled-components badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white) ![MUI badge](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+# Back-end
+
+![Node.js badge](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![Express badge](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=Express&logoColor=white) ![MongoDB badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 ---
 
